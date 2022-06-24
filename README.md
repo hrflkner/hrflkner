@@ -1,4 +1,6 @@
 
+<img src="https://github.com/hrflkner/hrflkner/blob/main/githubprofilebanner.svg" alt="banner" width="2000" height="450"/>
+
 # Hi, I’m Hunter Faulkner
 
 <p>
