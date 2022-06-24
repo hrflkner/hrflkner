@@ -1,14 +1,14 @@
 
 <img src="https://github.com/hrflkner/hrflkner/blob/main/githubprofilebanner.svg" alt="banner" width="2000" height="250"/>
 
-# Hi, I’m Hunter Faulkner
+# Hi!
 
 <p>
-  I am an American expat living in Sydney, Australia. I've been coding for roughly 6 years starting with statistical computing and data analysis/visualization with Python and R. Over the past 2 years, I have moved into Frontend and Fullstack web development. I have also dabbled with Go, and plan on developing my skills with it once I get more experience in web design and web animations.
+  I am an American expat living in Sydney, Australia. I've been coding for roughly 6 years starting with statistical computing and data analysis/visualization with Python and R. Over the past 2 years, I have moved into Frontend and Fullstack web development.
 </p>
 
 <p>
-   I primarily work with a React/Node-based stack, but I intend to learn Vue in the near future!
+   I primarily work with a React/Node-based stack!
 </p>
 
 ## Let's Connect
