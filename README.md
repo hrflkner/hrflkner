@@ -8,7 +8,7 @@
 </p>
 
 <p>
-   I primarily work with a React/Node-based stack!
+   I work with Angular or React/Next on the frontned and GCP on the backend!
 </p>
 
 ## Let's Connect
