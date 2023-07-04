@@ -48,8 +48,8 @@
 <tr border="0">
 <td width="50%" align="center">
   
- <img src="https://github-readme-stats.vercel.app/api?username=hrflkner&show_icons=true&theme=radical" alt="Github Stats" />
-  <br></br>
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=hrflkner&show_icons=true&theme=radical" alt="Github Stats" />
+  <br></br> -->
   <img alt="Hunter's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hrflkner&theme=dark&hide_border=true" />
 </td>
 
