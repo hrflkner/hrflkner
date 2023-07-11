@@ -58,7 +58,7 @@
   <img src="https://www.codewars.com/users/hrflkner/badges/large" alt="CodeWars Rank" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrflkner&hide=jupyter%20notebook,css&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrflkner&hide=jupyter%20notebook,css&layout=compact&langs_count=6&theme=radical" alt="Top Languages" /> -->
   
   </td>
 </tr>
