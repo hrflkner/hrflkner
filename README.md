@@ -1,6 +1,3 @@
-
-<img src="https://github.com/hrflkner/hrflkner/blob/main/githubprofilebanner.svg" alt="banner" width="2000" height="250"/>
-
 # Hi!
 
 <p>
