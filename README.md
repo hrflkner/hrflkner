@@ -1,7 +1,7 @@
 # Hi!
 
 <p>
-  I am an American expat living in Sydney, Australia. I've been coding for roughly 6 years starting with statistical computing and data analysis/visualization with Python and R. Over the past 2 years, I have moved into Frontend and Fullstack web development.
+  I am an American expat living in Sydney, Australia. I've been coding for 8 years starting out with statistical computing and data analysis/visualization with Python and R then moving over to application development in TypeScript and Node. I've been working as a software engineer for the past 3 years, and working in data analysis / business analytics for the 4 or 5 years before that.
 </p>
 
 <p>
