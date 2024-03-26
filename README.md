@@ -5,7 +5,7 @@
 </p>
 
 <p>
-   I work with Angular or React/Next on the frontned and GCP on the backend!
+   I work with Angular or Next and GCP/Firebase! Other AI or data related tasks in Python.
 </p>
 
 ## Let's Connect
